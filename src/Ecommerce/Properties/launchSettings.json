@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:53809/",
+      "applicationUrl": "https://zhhzh2217.github.io/Ecommerce/",
       "sslPort": 0
     }
   },
@@ -18,7 +18,7 @@
     "Ecommerce": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "http://localhost:5000",
+      "launchUrl": "https://zhhzh2217.github.io/Ecommerce/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
